@@ -96,8 +96,12 @@ Full click-by-click version: see **[DEMO-GUIDE.md](DEMO-GUIDE.md)**.
 
 ## Tech stack
 
-React 18 + TypeScript + Vite + Tailwind CSS · `motion` animations · `lucide-react` icons ·
+React 19 + TypeScript + Vite + Tailwind CSS v4 · `motion` animations · `lucide-react` icons ·
 Express · `node:sqlite` (WAL mode) · `react-router-dom`
+
+## Author
+
+**Muhammad Bilal** — IT Project Coordinator (GovTech), MPhil Food Safety & Control.
 
 ## Author's note
 
