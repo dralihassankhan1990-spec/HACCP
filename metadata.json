@@ -1,0 +1,6 @@
+{
+  "name": "HACCP-Shield: Audit & Compliance Logger",
+  "description": "Industrial food manufacturing compliance logger and real-time automated corrective action engine adhering to HACCP and ISO 22000 protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
